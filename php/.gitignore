@@ -1,0 +1,18 @@
+# Ignore system files
+/.vscode
+/.idea
+/.DS_Store
+
+# Ignore dependencies
+/vendor
+
+# Ignore configuration files with sensitive information
+/config.php
+.env
+
+# Ignore log files
+/*.log
+
+# Ignore cache and temporary files
+/cache/
+/tmp/

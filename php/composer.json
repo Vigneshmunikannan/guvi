@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.17",
+        "firebase/php-jwt": "^6.10",
+        "predis/predis": "^2.2"
+    }
+}
